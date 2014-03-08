@@ -22,7 +22,10 @@ A simple theme for NodeBB. Check out the theming guide that accompanies this wor
 
 ## Installation
 
-    npm install nodebb-theme-lavender
+From `nodebb` dir
+
+    cd npm_modules
+    git clone https://github.com/digitaldesigndj/nodebb-theme-lavender nodebb-theme-boundstar
 
 
 ## Credits
