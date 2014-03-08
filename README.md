@@ -1,5 +1,7 @@
-Lavender Theme for NodeBB
+Boundstar Theme for NodeBB
 =========================
+
+It's a fork!
 
 A simple theme for NodeBB. Check out the theming guide that accompanies this work at http://burnaftercompiling.com/nodebb/nodebb-hands-on-theming-guide-part-1/
 
